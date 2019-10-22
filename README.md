@@ -1,8 +1,7 @@
 # Case-Search
 A Sharepoint webpart which has the abillity to search for US Court Cases.  This webpart is a simple input bar with search button which displays the results below the form.
 
-![Image of Case-Search]
-(./image.png)
+![Image of Case-Search](./image.png)
 
 ## Getting Started
 
